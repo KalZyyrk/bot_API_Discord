@@ -1,7 +1,6 @@
 {
   "name": "bot_api_discord",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,14 @@
   },
   "devDependencies": {
     "eslint": "^8.32.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalZyyrk/bot_API_Discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KalZyyrk/bot_API_Discord/issues"
+  },
+  "homepage": "https://github.com/KalZyyrk/bot_API_Discord#readme",
+  "description": ""
 }
